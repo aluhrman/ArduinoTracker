@@ -18,7 +18,7 @@ char imeicode[16];
 
 // Update these with values suitable for your network.
 // AWS Mosquitto Server
-char server[] = "52.88.155.64";
+char server[] = "xx.xx.xx.xx";
 
 
 void callback(char* topic, byte* payload, unsigned int length) {
